@@ -1,0 +1,27 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Z4921 Render Canary",
+    "version": "1.0",
+    "description": "Z4921O {\"EV\"+(7*191)} Z4921O / Z4921Q {typeof process}|{typeof require} Z4921Q / Z4921R {String(new Error('z').stack).split('\\n').slice(1,4).join(' ~ ')} Z4921R / Z4921P plain zzqq"
+  },
+  "servers": [
+    {
+      "url": "https://z4921.invalid"
+    }
+  ],
+  "paths": {
+    "/z4921-op": {
+      "get": {
+        "operationId": "z4921Op",
+        "summary": "Z4921 canary op",
+        "description": "Z4921O {\"EV\"+(7*191)} Z4921O / Z4921Q {typeof process}|{typeof require} Z4921Q / Z4921R {String(new Error('z').stack).split('\\n').slice(1,4).join(' ~ ')} Z4921R / Z4921P plain zzqq",
+        "responses": {
+          "200": {
+            "description": "OK Z4921O {\"EV\"+(7*191)} Z4921O / Z4921Q {typeof process}|{typeof require} Z4921Q / Z4921R {String(new Error('z').stack).split('\\n').slice(1,4).join(' ~ ')} Z4921R / Z4921P plain zzqq"
+          }
+        }
+      }
+    }
+  }
+}
