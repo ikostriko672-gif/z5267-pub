@@ -1,0 +1,8 @@
+# Z5189 Canary
+name: z5189-canary
+on: push
+jobs:
+  canary:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo Z5181-REPO-A-SECRET >> /dev/null
