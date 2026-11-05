@@ -1,0 +1,3 @@
+# Z5231 canary for concurrent-link test
+Z5231-REPO-A-CANARY-7Q
+private non-docs file in owner repo A (gh_1). If seen in any other repo the internal tree leaked.
